@@ -1,0 +1,47 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.orange-color {
+    color: orange;
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.half-width img {
+    width: 100%;
+}
+
+.link-button {
+    color: white;
+    background-color: orange;
+    border-radius: 10px;
+    background-size: 20px;
+
+}
+
+section {
+    display: flex;
+}
+
+.half-width img {
+    width: 100%;
+}
+
+.background {
+    background-image: url(images/Frame\ 59.jpg);
+}
+
+#next {
+    text-align: center;
+}
